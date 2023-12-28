@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">View_Pager_Fragment</string>
+
+    <string name="hello_blank_fragment1">Page 1</string>
+    <string name="hello_blank_fragment2">Page 2</string>
+    <string name="hello_blank_fragment3">Page 3</string>
+    <string name="tab_layout_description">Tabs for navigating between pages</string>
+    <string name="viewpager_description">ViewPager for navigating between pages</string>
+    <string name="view_pager">View_Pager</string>
+
+</resources>
